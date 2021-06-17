@@ -16,3 +16,7 @@ Output: if one of the input is invalid:
 
 Output: The given data is stored in the database 'Customers':
 ![java2](https://user-images.githubusercontent.com/63559784/122440350-1948cc00-cfba-11eb-82de-9879e89ce7dd.png)
+
+
+The table 'orders' is used so that the users can select the 'category' and 'item'  directly from the combo box and the price will be printed in the label.
+![java4](https://user-images.githubusercontent.com/63559784/122441445-2c0fd080-cfbb-11eb-8c72-5f0969726765.png)
