@@ -2,7 +2,7 @@
 This is a miniproject based on a Food Delivery application where a user can order any food.
 Java Swing is used as the GUI, for storing users' database I have used mySQL(XAMPP).
 I have also included Validation check in it.
-Some Screenshots of it(For MAR ACTIVITY):
+Some Screenshots of it(For MAR ACTIVITY MAKAUT):
 
 GUI:
 ![java](https://user-images.githubusercontent.com/63559784/122439903-b0615400-cfb9-11eb-9995-adb3012fb0d0.png)
