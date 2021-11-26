@@ -1,7 +1,7 @@
 # Simple-Food-Odering-Application
 This is a miniproject based on a Food Odering application where a user can order any food.
 Java Swing is used as the GUI, for storing users' database I have used mySQL(XAMPP).
-I have also included Validation check in it.
+
 Some Screenshots of it(For MAR ACTIVITY MAKAUT):
 
 GUI:
