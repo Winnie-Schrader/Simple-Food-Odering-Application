@@ -1,5 +1,5 @@
-# Simple-Food-Odering-Application
-This is a miniproject based on a Food Odering application where a user can order any food.
+# Simple-Food-Ordering-Application
+This is a miniproject based on a Food Ordering application where a user can order any food based on the list provided.
 Java Swing is used as the GUI, for storing users' database I have used mySQL(XAMPP).
 
 Some Screenshots of it(For MAR ACTIVITY MAKAUT):
