@@ -2,7 +2,7 @@
 This is a miniproject based on a Food Ordering application where a user can order any food based on the list provided.
 Java Swing is used as the GUI, for storing users' database I have used mySQL(XAMPP).
 
-Some Screenshots of it(For MAR ACTIVITY MAKAUT):
+Snaps:
 
 GUI:
 ![java](https://user-images.githubusercontent.com/63559784/122439903-b0615400-cfb9-11eb-9995-adb3012fb0d0.png)
